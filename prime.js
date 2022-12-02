@@ -8,7 +8,7 @@ if (num%i==0){
     count++;
 }
 
-if (count == 0){
+if (count == 2){
     console.log("number is prime ");
 }else {
     console.log("number is not prime");
